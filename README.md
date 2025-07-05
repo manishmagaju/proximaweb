@@ -1,6 +1,7 @@
 ## trying to make website for proxima international academy
 
 ## website header part
-- logo
--a tag
- <a href=""></a>
+-title
+-symentic
+-tailwind cdn
+-tailwind config
